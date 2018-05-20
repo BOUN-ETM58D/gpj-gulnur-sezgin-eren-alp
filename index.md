@@ -1,3 +1,8 @@
+# Group Project 3 (May 19, 2018)
+
+Group Project Part II tasks are in the [link](Group_Proejct_Part_2.html).
+
+
 # Group Project 2 (May 08, 2018)
 
 You can find our shiny application [here](shiny.R).
